@@ -1,6 +1,7 @@
 # repo-link-test
 
-# Header
+
+# Add a GitHub Repository to your Local Machine 
 ## step 1: omonegho 
   create repo on github
   - Log into your GitHub account
@@ -10,8 +11,30 @@
   ![new_repo](https://user-images.githubusercontent.com/111533969/217383587-1f24cf7f-08b2-4210-ae81-874415d31461.png)
 
   
- ## step2: lauren 
- link the repo to your local pc
+ ## Step 2: Clone your repository to your local machine
+Cloning via terminal:
+- On your GitHub Repo, click the green code button, then copy the .git URL to your clipboard.
+![](https://user-images.githubusercontent.com/97190412/217404862-42231c01-029b-4d0b-a8c4-2cccb1cf5d41.png)
+  - It should look like this: `https://github.com/username/repo-name.git`
+
+ 
+- Open your preferred code editor (ex. Visual Studio Code)
+  - Then, open a gitbash terminal
+ 
+- Move to the parent directory where you would like to clone your new GitHub repository. **Desktop is a good place to start.**
+  - use `cd` to change directory
+  - Run `cd Desktop`
+
+- Clone your GitHub repository to your local machine
+  - Run `git clone https://github.com/username/repo-name.git`
+  - Now, you will find a folder on your desktop named `repo-name`
+
+- Move into this folder:
+  - Run `cd repo-name`
+- To make changed to the files in this folder/local repo
+  - Run `code .` to open the folder
+
+ **Now you can make changes to the files!**
  
 ## Step 3: Make changes? Lets get that repository updated!:sweat_smile: 
 - First, you will need to cd in the correct repository. 
