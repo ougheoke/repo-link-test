@@ -19,7 +19,7 @@
   - It should look like this:
 ![AAA](https://user-images.githubusercontent.com/111534176/217842187-82e01e80-2acd-432e-9056-f795bdbdcdff.PNG)
 - After you are in the right repository, you will begin by checking your status by entering `git status` in your gitbash terminal.
-  - The following prompt should follow
+  - The following prompt should follow:
 ```diff
 $ git status
 On branch main
