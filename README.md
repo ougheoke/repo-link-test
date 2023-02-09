@@ -13,7 +13,7 @@
  ## step2: lauren 
  link the repo to your local pc
  
-## Step 3:Make changes? Lets get that repository updated!:sweat_smile: 
+## Step 3: Make changes? Lets get that repository updated!:sweat_smile: 
 - First, you will need to cd in the correct repository. 
   - For our example you would put `cd OneDrive/desktop/Code/repo-link-test` in your gitbash terminal.
   - It should look like this:
