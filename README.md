@@ -18,7 +18,7 @@
   ![repo-test](https://user-images.githubusercontent.com/111533969/218136077-fae1730a-705a-4550-9425-7478727bc6ef.png)
 
   - Your default branch will be set to `main`
-  - Click on **Create repository** to make ypur repository.
+  - Click on **Create repository** to make your repository.
   
   **You're all set to clone your repo to your machine!**
   
