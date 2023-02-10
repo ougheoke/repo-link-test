@@ -2,14 +2,25 @@
 
 
 # Add a GitHub Repository to your Local Machine 
-## step 1: omonegho 
-  create repo on github
+## Step 1: Create a GitHub Repository
+### Navigate to the Repositories Tab
   - Log into your GitHub account
-  * On your profile, navigate to the Repositories tab
-  + Click on the New button
+  - On your profile, navigate to the Repositories tab
+  - Click on the New button
   
   ![new_repo](https://user-images.githubusercontent.com/111533969/217383587-1f24cf7f-08b2-4210-ae81-874415d31461.png)
 
+### Repository Details
+  - On this page, type a name for your repository (you can use the suggestion or create your own)
+  - You can choose to make it public or private.
+  - Adding a `README` file is optional, but strongly recommended.
+  
+  ![repo-test](https://user-images.githubusercontent.com/111533969/218136077-fae1730a-705a-4550-9425-7478727bc6ef.png)
+
+  - Your default branch will be set to `main`
+  - Click on **Create repository** to make ypur repository.
+  
+  **You're all set to clone your repo to your machine!**
   
  ## Step 2: Clone your repository to your local machine
 Cloning via terminal:
