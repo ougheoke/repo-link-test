@@ -13,7 +13,7 @@
 ### Repository Details
   - On this page, type a name for your repository (you can use the suggestion or create your own)
   - You can choose to make it public or private.
-  - Adding a `README` file is optional, but strongly recommended.
+  - Adding a `README` file is optional, but highly recommended.
   
   ![repo-test](https://user-images.githubusercontent.com/111533969/218136077-fae1730a-705a-4550-9425-7478727bc6ef.png)
 
